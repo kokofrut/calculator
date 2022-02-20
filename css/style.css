@@ -6,6 +6,8 @@ body {
     font-family: Lucida Console, Courier, monospace;
 }
 
+#result { background-color:#5dced6}
+
 #result_text { 
     float: right;
     font-size: 22px;
